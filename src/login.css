@@ -1,0 +1,40 @@
+.container {
+    padding: 3%;
+    padding-left: 5%;
+}
+
+.container input[type='submit']  {
+	width: 14%;
+	display: inline-block;
+	text-align: center;
+	background: #ac3435;
+	color: #fff;
+	height: 52px;
+	border-radius: 3px;
+	border: 0px;
+}
+
+.container input {
+	width: 30.5%;
+	font-size: 17px;
+	padding: 1px 21px;
+	margin-right: 2%;
+	color: #6d6a6a;
+	height: 48px;
+	font-weight: bold;
+	border-width: 1px;
+	border-style: solid;
+}
+
+
+.userName {
+	border-color: #b7b7b7;
+	background:url(/public/images/user.png) right center no-repeat;
+	background-position: 90%;
+}
+
+.password {
+	border-color: #b7b7b7;
+	background:url(/public/images/key.png) right center no-repeat;
+	background-position: 90%;
+}
